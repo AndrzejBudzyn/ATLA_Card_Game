@@ -5,10 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/Src/menu_background.uasset",
-				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/Untitled.umap",
-				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/Src/menu_background_Mat.uasset"
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/Menu.uasset",
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/LvLs/Auth.umap",
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/texture/menu_background.uasset",
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/LvLs/Menu.umap",
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/Log_in.uasset",
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/Register.uasset",
+				"C:/Users/szymo/Desktop/Projekt 2/ATLA_Card_Game/ATLA_Card_Game/Content/LvLs/Menu_widghet/Main_Menu.uasset"
 			]
 		}
 	]
