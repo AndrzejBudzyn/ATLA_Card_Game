@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ATLA_Card_Game",
+			"Path": "..\\Source\\ATLA_Card_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ATLA_Card_GameEditor",
+			"Path": "..\\Source\\ATLA_Card_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

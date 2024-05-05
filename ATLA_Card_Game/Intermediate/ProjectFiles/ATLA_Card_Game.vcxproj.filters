@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ATLA_Card_Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ATLA_Card_Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ATLA_Card_GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ATLA_Card_Game">
+      <UniqueIdentifier>{F144464F-80FB-334F-96D9-41C8FF9C227A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ATLA_Card_Game\ATLA_Card_Game.Build.cs">
+      <Filter>Source\ATLA_Card_Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ATLA_Card_Game\ATLA_Card_Game.cpp">
+      <Filter>Source\ATLA_Card_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ATLA_Card_Game\ATLA_Card_Game.h">
+      <Filter>Source\ATLA_Card_Game</Filter>
+    </ClInclude>
+    <Filter Include="Source\ATLA_Card_Game\Private">
+      <UniqueIdentifier>{C8781116-895B-320C-8CCD-8B06F6D04D30}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ATLA_Card_Game\Private\LogInScript.cpp">
+      <Filter>Source\ATLA_Card_Game\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ATLA_Card_Game\Private\RegisterScript.cpp">
+      <Filter>Source\ATLA_Card_Game\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ATLA_Card_Game\Public">
+      <UniqueIdentifier>{486E608E-75A2-3D5C-97BB-1E720458FF6C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ATLA_Card_Game\Public\LogInScript.h">
+      <Filter>Source\ATLA_Card_Game\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ATLA_Card_Game\Public\RegisterScript.h">
+      <Filter>Source\ATLA_Card_Game\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
