@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kbBLApAVRmAWzbevmBBFmeGLtusohFbxOsejZ/uA9HPdjFUn9ZakBV0rq66/nmTW56lG7eXSN9NP4C0QEJxxw==",
+  "dgSpecHash": "tdUzpK+8bznRWau7tLTELEJXotPxzdN2vttmUZENy6vohzxUr2XVFOoBzOSy+uppbI6OqBqvoOysZb9q9W0EAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szymo\\Desktop\\Projekt 2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\ATLA_Card_GameModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\ATLA_Card_GameModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymo\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

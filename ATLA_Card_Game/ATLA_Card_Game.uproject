@@ -28,6 +28,10 @@
 		{
 			"Name": "JWT",
 			"Enabled": true
+		},
+		{
+			"Name": "WebAPI",
+			"Enabled": true
 		}
 	]
 }

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\szymo\\desktop\\projekt 2\\atla_card_game\\atla_card_game\\source\\atla_card_game\\private\\loginscript.cpp",
+        "Source": "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\source\\atla_card_game\\private\\loginscript.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\szymo\\desktop\\projekt 2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\x64\\atla_card_gameeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\x64\\atla_card_gameeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\szymo\\desktop\\projekt 2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\atla_card_game\\definitions.atla_card_game.h",
-            "c:\\users\\szymo\\desktop\\projekt 2\\atla_card_game\\atla_card_game\\source\\atla_card_game\\public\\loginscript.h",
+            "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\atla_card_game\\definitions.atla_card_game.h",
+            "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\source\\atla_card_game\\public\\loginscript.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\http.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
@@ -15,7 +15,7 @@
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
             "d:\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
-            "c:\\users\\szymo\\desktop\\projekt 2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\unrealeditor\\inc\\atla_card_game\\uht\\loginscript.generated.h"
+            "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\unrealeditor\\inc\\atla_card_game\\uht\\loginscript.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

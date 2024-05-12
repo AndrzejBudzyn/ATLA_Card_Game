@@ -8047,11 +8047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szymo\\Desktop\\Projekt 2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\ATLA_Card_GameModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\ATLA_Card_GameModuleRules.csproj",
       "projectName": "ATLA_Card_GameModuleRules",
-      "projectPath": "C:\\Users\\szymo\\Desktop\\Projekt 2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\ATLA_Card_GameModuleRules.csproj",
+      "projectPath": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\ATLA_Card_GameModuleRules.csproj",
       "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szymo\\Desktop\\Projekt 2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\obj\\",
+      "outputPath": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Intermediate\\Build\\BuildRulesProjects\\ATLA_Card_GameModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szymo\\AppData\\Roaming\\NuGet\\NuGet.Config",

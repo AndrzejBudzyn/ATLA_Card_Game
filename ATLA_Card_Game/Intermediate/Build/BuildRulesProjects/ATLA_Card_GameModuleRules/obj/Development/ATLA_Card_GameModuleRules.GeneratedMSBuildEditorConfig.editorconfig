@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ATLA_Card_GameModuleRules
-build_property.ProjectDir = C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\BuildRulesProjects\ATLA_Card_GameModuleRules\
+build_property.ProjectDir = C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\BuildRulesProjects\ATLA_Card_GameModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

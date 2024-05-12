@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\source\\atla_card_game\\private\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\x64\\atla_card_gameeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\atla_card_game\\definitions.atla_card_game.h",
+            "c:\\users\\szymo\\desktop\\projekt_2\\atla_card_game\\atla_card_game\\source\\atla_card_game\\public\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

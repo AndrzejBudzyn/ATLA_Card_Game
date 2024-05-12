@@ -46,6 +46,9 @@
     <ClCompile Include="..\..\Source\ATLA_Card_Game\Private\LogInScript.cpp">
       <Filter>Source\ATLA_Card_Game\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\ATLA_Card_Game\Private\MyClass.cpp">
+      <Filter>Source\ATLA_Card_Game\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ATLA_Card_Game\Private\RegisterScript.cpp">
       <Filter>Source\ATLA_Card_Game\Private</Filter>
     </ClCompile>
@@ -53,6 +56,9 @@
       <UniqueIdentifier>{486E608E-75A2-3D5C-97BB-1E720458FF6C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\ATLA_Card_Game\Public\LogInScript.h">
+      <Filter>Source\ATLA_Card_Game\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ATLA_Card_Game\Public\MyClass.h">
       <Filter>Source\ATLA_Card_Game\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\ATLA_Card_Game\Public\RegisterScript.h">

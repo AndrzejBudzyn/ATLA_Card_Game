@@ -1,11 +1,11 @@
-"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Source\ATLA_Card_Game\Private\LogInScript.cpp"
-/FI"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\ATLA_Card_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\Definitions.ATLA_Card_Game.h"
-/Yu"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\ATLA_Card_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\ATLA_Card_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\LogInScript.cpp.lc.obj"
-/sourceDependencies"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\LogInScript.cpp.dep.lc.json"
-@"C:\Users\szymo\Desktop\Projekt 2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\ATLA_Card_Game.Shared.rsp"
+"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Source\ATLA_Card_Game\Private\LogInScript.cpp"
+/FI"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\ATLA_Card_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\Definitions.ATLA_Card_Game.h"
+/Yu"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\ATLA_Card_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\ATLA_Card_GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\LogInScript.cpp.lc.obj"
+/sourceDependencies"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\LogInScript.cpp.dep.lc.json"
+@"C:\Users\szymo\Desktop\Projekt_2\ATLA_Card_Game\ATLA_Card_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\ATLA_Card_Game\ATLA_Card_Game.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
