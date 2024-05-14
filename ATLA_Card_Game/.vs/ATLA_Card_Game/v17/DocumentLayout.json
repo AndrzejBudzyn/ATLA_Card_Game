@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Private\\LogInScript.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Private\\LogInScript.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\RegisterScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Public\\RegisterScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Private\\RegisterScript.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Private\\RegisterScript.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\RegisterScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Public\\RegisterScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\LogInScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Public\\LogInScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Private\\LogInScript.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Private\\LogInScript.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\ATLA_Card_Game.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\ATLA_Card_Game.Build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\LogInScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B08F742-BE41-3949-AC26-68984DA79270}|Intermediate\\ProjectFiles\\ATLA_Card_Game.vcxproj|solutionrelative:Source\\ATLA_Card_Game\\Public\\LogInScript.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -40,38 +40,40 @@
               "RelativeDocumentMoniker": "Source\\ATLA_Card_Game\\Private\\RegisterScript.cpp",
               "ToolTip": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Private\\RegisterScript.cpp",
               "RelativeToolTip": "Source\\ATLA_Card_Game\\Private\\RegisterScript.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-03T12:33:17.105Z"
+              "WhenOpened": "2024-05-03T12:33:17.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RegisterScript.h",
               "DocumentMoniker": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\RegisterScript.h",
               "RelativeDocumentMoniker": "Source\\ATLA_Card_Game\\Public\\RegisterScript.h",
               "ToolTip": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\RegisterScript.h",
               "RelativeToolTip": "Source\\ATLA_Card_Game\\Public\\RegisterScript.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-03T12:33:13.099Z"
+              "WhenOpened": "2024-05-03T12:33:13.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LogInScript.cpp",
               "DocumentMoniker": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Private\\LogInScript.cpp",
               "RelativeDocumentMoniker": "Source\\ATLA_Card_Game\\Private\\LogInScript.cpp",
               "ToolTip": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Private\\LogInScript.cpp",
               "RelativeToolTip": "Source\\ATLA_Card_Game\\Private\\LogInScript.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwDAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-03T12:00:46.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LogInScript.h",
               "DocumentMoniker": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\Public\\LogInScript.h",
               "RelativeDocumentMoniker": "Source\\ATLA_Card_Game\\Public\\LogInScript.h",
@@ -79,19 +81,21 @@
               "RelativeToolTip": "Source\\ATLA_Card_Game\\Public\\LogInScript.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-03T12:00:30.28Z"
+              "WhenOpened": "2024-05-03T12:00:30.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ATLA_Card_Game.Build.cs",
               "DocumentMoniker": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\ATLA_Card_Game.Build.cs",
               "RelativeDocumentMoniker": "Source\\ATLA_Card_Game\\ATLA_Card_Game.Build.cs",
               "ToolTip": "C:\\Users\\szymo\\Desktop\\Projekt_2\\ATLA_Card_Game\\ATLA_Card_Game\\Source\\ATLA_Card_Game\\ATLA_Card_Game.Build.cs",
               "RelativeToolTip": "Source\\ATLA_Card_Game\\ATLA_Card_Game.Build.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T09:01:35.972Z"
+              "WhenOpened": "2024-05-03T09:01:35.972Z",
+              "EditorCaption": ""
             }
           ]
         }

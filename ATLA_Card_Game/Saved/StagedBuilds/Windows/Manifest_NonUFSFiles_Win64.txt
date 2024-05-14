@@ -1,0 +1,16 @@
+ATLA_Card_Game/Binaries/Win64/ATLA_Card_Game-Win64-Shipping.exe	2024-05-13T18:57:04.986Z
+ATLA_Card_Game/Binaries/Win64/D3D12/D3D12Core.dll	2023-12-30T23:36:18.307Z
+ATLA_Card_Game/Binaries/Win64/OpenImageDenoise.dll	2023-12-30T23:50:34.535Z
+ATLA_Card_Game/Binaries/Win64/tbb.dll	2023-12-30T23:36:00.069Z
+ATLA_Card_Game/Binaries/Win64/tbb12.dll	2023-12-30T23:50:25.820Z
+ATLA_Card_Game/Binaries/Win64/tbbmalloc.dll	2023-12-30T23:36:00.070Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-12-30T23:45:21.176Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-12-30T23:33:48.029Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-12-30T23:36:12.941Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-12-30T23:36:12.975Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-12-30T23:36:13.074Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-12-30T23:36:18.275Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-12-30T23:36:18.276Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-12-30T23:36:18.456Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-09-23T18:46:39.775Z
+ATLA_Card_Game.exe	2024-05-14T10:08:14.982Z

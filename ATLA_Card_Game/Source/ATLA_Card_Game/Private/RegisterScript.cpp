@@ -1,27 +1,50 @@
 #include "RegisterScript.h"
 
-bool URegisterScript::Register(const FString& Name, const FString& Email, const FString& Password)
+AUserRegistration::AUserRegistration()
 {
-    TSharedPtr<bool> Success = MakeShared<bool>(false);
+    PrimaryActorTick.bCanEverTick = true;
+}
 
-    TSharedRef<IHttpRequest> HttpRequest = FHttpModule::Get().CreateRequest();
-    HttpRequest->SetVerb("POST");
-    HttpRequest->SetURL("https://57df-31-60-18-184.ngrok-free.app/api/register");
-    HttpRequest->SetHeader(TEXT("Content-Type"), TEXT("application/json"));
+FString AUserRegistration::RegisterUserSynchronously(const FString& Username, const FString& Email, const FString& Password)
+{
+    FString ContentJson = FString::Printf(TEXT("{\"username\":\"%s\",\"email\":\"%s\",\"password\":\"%s\"}"), *Username, *Email, *Password);
+    return MakeHttpRequest("http://127.0.0.1:8000/api/register", ContentJson);
+}
 
-    FString JsonString = FString::Printf(TEXT("{\"name\": \"%s\", \"email\": \"%s\", \"password\": \"%s\"}"), *Name, *Email, *Password);
-    HttpRequest->SetContentAsString(JsonString);
+FString AUserRegistration::MakeHttpRequest(const FString& Url, const FString& ContentJson)
+{
+    TPromise<FString> Promise;
+    TFuture<FString> Future = Promise.GetFuture();
 
-    HttpRequest->OnProcessRequestComplete().BindLambda(
-        [Success](FHttpRequestPtr Request, FHttpResponsePtr Response, bool bSuccess)
+    TSharedRef<IHttpRequest, ESPMode::ThreadSafe> Request = FHttpModule::Get().CreateRequest();
+    Request->SetURL(Url);
+    Request->SetVerb("POST");
+    Request->SetHeader("Content-Type", "application/json");
+    Request->SetContentAsString(ContentJson);
+    Request->OnProcessRequestComplete().BindLambda([PromisePtr = &Promise](FHttpRequestPtr Request, FHttpResponsePtr Response, bool bWasSuccessful) mutable
         {
-            if (bSuccess && Response.IsValid())
+            if (bWasSuccessful && Response->GetResponseCode() == 200)
             {
-                *Success = (Response->GetResponseCode() == 200);
+                PromisePtr->SetValue(Response->GetContentAsString());
+            }
+            else
+            {
+                PromisePtr->SetValue(TEXT("Failed to get valid response"));
             }
         });
+    Request->ProcessRequest();
 
-    HttpRequest->ProcessRequest();
+    return Future.Get();
+}
 
-    return *Success;
+void AUserRegistration::HandleResponse(FHttpRequestPtr Request, FHttpResponsePtr Response, bool bWasSuccessful, TPromise<FString>* Promise)
+{
+    if (bWasSuccessful && Response->GetResponseCode() == 200)
+    {
+        Promise->SetValue(Response->GetContentAsString());
+    }
+    else
+    {
+        Promise->SetValue(TEXT("Failed to get valid response"));
+    }
 }

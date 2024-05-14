@@ -4,7 +4,7 @@ void ULogInScript::Login(const FString& Email, const FString& Password)
 {
     TSharedRef<IHttpRequest> HttpRequest = FHttpModule::Get().CreateRequest();
     HttpRequest->SetVerb("POST");
-    HttpRequest->SetURL("https://57df-31-60-18-184.ngrok-free.app/api/login");
+    HttpRequest->SetURL("http://127.0.0.1:8000/api/login");
     HttpRequest->SetHeader(TEXT("Content-Type"), TEXT("application/json"));
 
     FString JsonString = FString::Printf(TEXT("{\"email\": \"%s\", \"password\": \"%s\"}"), *Email, *Password);

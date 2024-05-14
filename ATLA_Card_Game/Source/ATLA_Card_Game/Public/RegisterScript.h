@@ -1,16 +1,26 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Kismet/BlueprintFunctionLibrary.h"
+#include "GameFramework/Actor.h"
+#include "HttpModule.h"
+#include "Interfaces/IHttpRequest.h"
+#include "Interfaces/IHttpResponse.h"
 #include "Http.h"
+#include "Async/Async.h"
 #include "RegisterScript.generated.h"
 
 UCLASS()
-class ATLA_CARD_GAME_API URegisterScript : public UBlueprintFunctionLibrary
+class ATLA_CARD_GAME_API AUserRegistration : public AActor
 {
     GENERATED_BODY()
 
 public:
-    UFUNCTION(BlueprintCallable, Category = "Registration")
-    static bool Register(const FString& Name, const FString& Email, const FString& Password);
+    AUserRegistration();
+
+    UFUNCTION(BlueprintCallable, Category = "HTTP Request")
+    FString RegisterUserSynchronously(const FString& Username, const FString& Email, const FString& Password);
+
+private:
+    FString MakeHttpRequest(const FString& Url, const FString& ContentJson);
+    void HandleResponse(FHttpRequestPtr Request, FHttpResponsePtr Response, bool bWasSuccessful, TPromise<FString>* Promise);
 };
